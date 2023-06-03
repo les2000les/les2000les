@@ -23,3 +23,5 @@ Here are some ideas to get you started:
 </div>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=les2000les&langs_count=8)](https://github.com/les2000les/github-readme-stats)
+<h3 align="center">👩‍💻 Most Used Languages 👩‍💻</h3>
+<div align="center">
