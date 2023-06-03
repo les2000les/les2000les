@@ -22,7 +22,9 @@ Here are some ideas to get you started:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=les2000les&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
-<div align="center">
+<div style="text-align: center;">
   <h3>👩‍💻 Most Used Languages 👩‍💻</h3>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=les2000les&langs_count=8)](https://github.com/les2000les/github-readme-stats)
+  <a href="https://github.com/les2000les/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=les2000les&langs_count=8" alt="Top Langs" />
+  </a>
 </div>
