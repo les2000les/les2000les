@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=160&section=header&text=Welcome%20to%20%20my%20World!&fontAlign=50&fontAlignY=70&fontSize=90&fontColor=000000)
+![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=160&section=header&text=Eunsong%20World!&fontAlign=50&fontAlignY=70&fontSize=90&fontColor=000000)
 <h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
 <div align="center">
  
