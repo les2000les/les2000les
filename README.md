@@ -24,11 +24,8 @@ Here are some ideas to get you started:
 |2023|예쏭이야|2023 데이터 활용 부산관광 아이디어 공모전||
 |2023|3조|2023 캠퍼스SW아카데미 TABA 2기 프로젝트|최우수상|
 
-</div>
-
-
 
 <h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
-<div align="center">
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=les2000les&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
+
 </div>
