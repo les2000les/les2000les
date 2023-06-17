@@ -23,10 +23,6 @@ Here are some ideas to get you started:
 |2023|예쏭이야|2023 데이터 활용 부산관광 아이디어 공모전||
 |2023|3조|2023 캠퍼스SW아카데미 TABA 2기 프로젝트|최우수상|
 
-
-//![header](https://capsule-render.vercel.app/api?type=wa/ve&color=gradient&height=300&section=header&text=Eunsong world&fontSize=90)
-
-
 <h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
 <div align="center">
  
