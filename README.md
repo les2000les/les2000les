@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
-<h3 align="center"> 🌱Completion status⚡🌱 </h3>
+<h3 align="center"> 🌱Completion status🌱 </h3>
 
 |연도|주최|교육명|시작일|종료일|
 |---|---|---|---|---|
