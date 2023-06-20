@@ -43,6 +43,11 @@ Here are some ideas to get you started:
 |2023|부산광역시, 부산관광공사|2023 데이터 활용 부산관광 아이디어 공모전|예쏭이야|부산 물고기 정보 알리미 (전통시장, 회집 연계)||
 |2023|Tmax tibero, 단국대학교|2023 캠퍼스SW아카데미 TABA 2기 프로젝트|3조|주식투자를 위한 뉴스기사 Data Crawling 서비스|최우수상|
 
+<h3 align="center"> ⚡Personal Project⚡ </h3>
+  
+|연도|주최|공모전명|소속|프로젝트명|결과|
+|---|---|---|---|---|---|
+
 
 <h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
 
