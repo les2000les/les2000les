@@ -55,5 +55,5 @@ Here are some ideas to get you started:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=les2000les&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 
 
-<a href="https://github.com/les2000les"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imysh578&layout=compact&theme=nord&hide_border=true" /></a> 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=les2000les&layout=compact)](https://github.com/les2000les/github-readme-stats)
 </div>
