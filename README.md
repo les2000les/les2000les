@@ -14,9 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+🔥
 <div align="center">
+<h3 align="center"> 🔥My career🔥 </h3>
   
+|입사일|회사명|팀명|직금|
+|---|---|---|---|
+|2023.08.07|Tmax AI|PM본부 PS팀|PS Manager|
+
 <h3 align="center"> ✨My degree✨ </h3>
   
 |입학년월|졸업년월|학위|전공|
