@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <div align="center">
 <h3 align="center"> 🔥My career🔥 </h3>
   
-|입사일|회사명|팀명|직금|
+|입사일|회사명|팀명|직급|
 |---|---|---|---|
 |2023.08.07|Tmax AI|PM본부 PS팀|PS Manager|
 
