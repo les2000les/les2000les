@@ -64,11 +64,4 @@ Here are some ideas to get you started:
 |2022|한국국제보건의료재단||기획예산팀|국내초청연수 예산집행내역 분석을 통한 평균단가 및 연간 증감율 산출||
 |2023|한국국제보건의료재단||기획예산팀|재단 보건의료 사업 비정형 데이터 분석 및 공공데이터 품질 관리(문서 자동화 분류)||
 
-<h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
 
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=les2000les&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=les2000les)](https://github.com/les2000les/github-readme-stats)
-</div>
